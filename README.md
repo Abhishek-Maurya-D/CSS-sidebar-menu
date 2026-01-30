@@ -33,7 +33,7 @@ The project features a hamburger menu, smooth transitions, Font Awesome icons, a
 
 ## 📦 How to Use
 1. Clone the repository  
-   ```bash
+```
    git clone https://github.com/your-username/css-sidebar-menu.git
 ````
 
@@ -57,22 +57,3 @@ The project features a hamburger menu, smooth transitions, Font Awesome icons, a
 ## 📜 License
 
 This project is open-source and free to use for learning and practice.
-
-```
-
----
-
-## 🔹 Pro Tip (Optional Enhancements)
-If you want to upgrade this later:
-- Add mobile responsiveness
-- Convert to React / Tailwind
-- Add active menu highlighting
-- Deploy on GitHub Pages
-
-If you want, I can also:
-- Optimize README for **recruiters**
-- Rename project to match **portfolio style**
-- Help you deploy it on **GitHub Pages**
-
-Just tell me 👍
-```
